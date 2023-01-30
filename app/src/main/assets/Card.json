@@ -1,0 +1,59 @@
+{
+   "card":[
+      {
+         "timeStamp":"2021-10-15 15:59:50.839",
+         "url":"https://test-api.com/time",
+         "status":"200"
+      },
+      {
+         "timeStamp":"22021-10-15 16:01:29.065",
+         "url":"https://test-api.com/check",
+         "status":"200"
+      },
+      {
+         "timeStamp":"2021-10-15 16:01:29.058",
+         "url":"https://test-api.com/login",
+         "status":"0"
+      },
+      {
+         "timeStamp":"2021-10-15 16:01:44.066",
+         "url":"https://test-api.com/check",
+         "status":"400"
+      },
+      {
+         "timeStamp":"2021-10-15 16:01:37.667",
+         "url":"https://test-api.com",
+         "status":"500"
+      },
+      {
+         "timeStamp":"2021-10-15 16:02:00.060",
+         "url":"https://test-api.com",
+         "status":"400"
+      },
+      {
+         "timeStamp":"2021-10-15 16:02:10.220",
+         "url":"https://test-api.com/status",
+         "status":"0"
+      },
+      {
+         "timeStamp":"2021-10-15 16:02:14.240",
+         "url":"https://test-api.com/status",
+         "status":"200"
+      },
+      {
+         "timeStamp":"2021-10-15 16:02:28.153",
+         "url":"https://test-api.com/time",
+         "status":"400"
+      },
+      {
+         "timeStamp":"2021-10-15 16:02:47.566",
+         "url":"https://test-api.com/login",
+         "status":"500"
+      },
+      {
+         "timeStamp":"2021-10-15 16:02:14.240",
+         "url":"https://test-api.com/time",
+         "status":"200"
+      }
+   ]
+}

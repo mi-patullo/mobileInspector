@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textFontRobotoRegularNoMono">
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="ActionBatTitleText" parent="textFontRobotoBold">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:layout_weight">0.5</item>
+    </style>
+
+    <style name="textFontRobotoBold">
+        <item name="android:fontFamily">@font/roboto_bold</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

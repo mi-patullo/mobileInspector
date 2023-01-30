@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- The normal state of the button -->
+    <item android:state_selected="false">
+        <shape>
+            <stroke android:width="2dip" android:color="@color/green" />
+            <padding android:bottom="10dp" android:left="10dp" android:right="10dp" android:top="10dp" />
+            <solid android:color="#FFFFFF" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+
+    <!-- The state when the button is selected. -->
+    <item android:state_selected="true">
+        <shape>
+            <padding android:bottom="10dp" android:left="10dp" android:right="10dp" android:top="10dp" />
+            <solid android:color="@color/green" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+</selector>
+

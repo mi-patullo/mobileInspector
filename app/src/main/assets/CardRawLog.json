@@ -1,0 +1,160 @@
+{
+   "cardRawLog":[
+      {
+         "timeStamp":"2021-10-15 16:01:29.065",
+         "message":"https://test-api.com/check",
+         "caller":"",
+         "level":"info",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"get",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"400"
+      },
+      {
+         "timeStamp":"2021-10-15 15:59:50.839",
+         "message":"https://test-api.com/time",
+         "caller":"",
+         "level":"info",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"get",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"200"
+      },
+{
+         "timeStamp":"2021-10-15 16:01:29.058",
+         "message":"https://test-api.com/login",
+         "caller":"",
+         "level":"debug",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"500"
+      },
+{
+         "timeStamp":"2021-10-15 16:01:44.066",
+         "message":"https://test-api.com/check",
+         "caller":"",
+         "level":"verbose",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"500"
+      },
+{
+         "timeStamp":"2021-10-15 16:01:37.667",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"info",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"200"
+      },
+{
+         "timeStamp":"2021-10-15 16:02:00.060",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"warn",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"200"
+      },
+{
+         "timeStamp":"2021-10-15 16:02:10.220",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"error",
+         "id":4,
+         "url":"https://test-api.com/check",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"0"
+      },
+{
+         "timeStamp":"22021-10-15 16:02:14.240",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"warn",
+         "id":4,
+         "url":"https://test-api.com/check",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"400"
+      },
+{
+         "timeStamp":"22021-10-15 16:02:14.240",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"error",
+         "id":4,
+         "url":"https://test-api.com/check",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"0"
+      },
+{
+         "timeStamp":"2021-10-15 16:02:28.153",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"warn",
+         "id":4,
+         "url":"https://test-api.com/check",
+         "method":"post",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"400"
+      },
+{
+         "timeStamp":"2021-10-15 16:02:28.153",
+         "message":"https://test-api.com",
+         "caller":"",
+         "level":"assert",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"get",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"400"
+      },
+{
+         "timeStamp":"2021-10-15 16:02:47.566",
+         "message":"https://test-api.com/login",
+         "caller":"",
+         "level":"info",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"get",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"200"
+      },
+{
+         "timeStamp":"2021-10-15 16:02:14.240",
+         "message":"https://test-api.com/login",
+         "caller":"",
+         "level":"assert",
+         "id":4,
+         "url":"https://test-api.com/status",
+         "method":"get",
+         "requestBody":"payload",
+         "responseBody":"payload",
+         "statusCode":"500"
+      }
+   ]
+}
